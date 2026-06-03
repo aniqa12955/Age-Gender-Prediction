@@ -1,4 +1,4 @@
-## actually  the  model trainng file is too big not  upload on github i atatch link of  my  goggle drive 
+## Actually  the  model trainng file is too big not  upload on github i attach link of  my  google drive: 
 ## https://drive.google.com/file/d/17BcwT_Mi0TYg_21i44YvXbP58Rs062fE/view?usp=sharing
 
 # 🎯 Age and Gender Prediction Using CNN
